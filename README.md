@@ -1,7 +1,7 @@
 - 🇨🇴 Colombian, with formal training in Supply Chain and Production.
 - 👀 I’m interested in Data Analysis and Data Engineering
 - 🔭 I’m currently working at Remcoda and as freelancer
-- 🌱 I’m currently learning JavaScript & Swift
+- 🌱 I’m currently learning JavaScript & more Python.
 - 📫 How to reach me: miguelochoabotero@gmail.com
 - ⚡ I love Data Visualization and Analysis, also I love reading
 
