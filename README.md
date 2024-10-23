@@ -1,6 +1,6 @@
 - 🇨🇴 Colombian, with formal training in Supply Chain, wanting to move to the Tech Industry
-- 👀 I’m interested in Data Analysis and Data Engineering
-- 🔭 I’m currently working at Remcoda and as freelancer
+- 👀 I’m interested in Data Science and Data Engineering
+- 🔭 I’m currently working at MCH as a System and Data Analyst, training for Data Science
 - 🌱 I’m currently learning JavaScript & more Python
 - 📫 How to reach me: miguelochoabotero@gmail.com
 - ⚡ I love Data Visualization and Analysis
